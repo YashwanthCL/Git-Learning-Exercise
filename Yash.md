@@ -1,2 +1,2 @@
-Yashwant is my name
+Yashwant is my name. this is git exercise
 
